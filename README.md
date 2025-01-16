@@ -3,12 +3,13 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Subaita Mamun`
+- **CCID:** `subaita1`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+https://www.youtube.com/watch?v=pXYBgoVsL0g&ab_channel=HIPSTErdREAD
+
 
 ## Verbal Collaboration
 
