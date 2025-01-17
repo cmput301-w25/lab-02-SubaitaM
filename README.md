@@ -9,6 +9,7 @@
 ## References and Resources
 
 https://www.youtube.com/watch?v=pXYBgoVsL0g&ab_channel=HIPSTErdREAD
+https://www.youtube.com/watch?v=C_8uIwgpBFc&ab_channel=WithSam
 
 
 ## Verbal Collaboration
