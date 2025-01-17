@@ -8,8 +8,8 @@
 
 ## References and Resources
 
-https://www.youtube.com/watch?v=pXYBgoVsL0g&ab_channel=HIPSTErdREAD
-https://www.youtube.com/watch?v=C_8uIwgpBFc&ab_channel=WithSam
+How to remove an item from a list - https://www.youtube.com/watch?v=pXYBgoVsL0g&ab_channel=HIPSTErdREAD
+How to hide and display items on Android Studio - https://www.youtube.com/watch?v=C_8uIwgpBFc&ab_channel=WithSam
 
 
 ## Verbal Collaboration
